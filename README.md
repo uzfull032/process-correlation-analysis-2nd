@@ -17,9 +17,12 @@ https://github.com/uzfull032/process-correlation-analysis-1st?tab=readme-ov-file
 ## 💡 Simulation and Empirical results
 
 Simluation results:
-https://github.com/uzfull032/FOWLP-Chamber-CFD-Study-1st?tab=readme-ov-file#%EF%B8%8F-representative-figures
+
+https://github.com/uzfull032/FOWLP-Chamber-CFD-Study-2nd#%EF%B8%8F-representative-figures
 
 Empirical results:
+
+
 
 ---
 

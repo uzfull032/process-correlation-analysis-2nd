@@ -12,6 +12,14 @@ This study explores the relationship between pressure distribution and wafer coa
 ## 📐 Correlation Analysis Formulas
 referred to:
 
+https://github.com/uzfull032/process-correlation-analysis-1st?tab=readme-ov-file#-mathematical-method
+
+## 💡 Simulation and Empirical results
+
+Simluation results:
+
+
+Empirical results:
 
 ---
 
